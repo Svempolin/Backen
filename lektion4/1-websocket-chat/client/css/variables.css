@@ -1,0 +1,9 @@
+:root {
+    --clr-main-bg: #ced1e4;
+    --border-radius: 1rem; 
+    --shadow: 3px 3px 10px #00000050;
+    --border-color: #bdbdbd;
+    --clr-primary: #316e8d;
+    --clr-primary-100: hsl(200, 48%, 33%);
+    --clr-primary-100: hsl(200, 48%, 27%);
+}

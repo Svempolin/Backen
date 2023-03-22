@@ -1,0 +1,11 @@
+@import "./default.css";
+
+/* margin block gör så att det blir upp och nere */
+.headline{
+    margin-block:1rem; 
+    
+}
+.login-card{
+     
+max-width: 400px;
+}

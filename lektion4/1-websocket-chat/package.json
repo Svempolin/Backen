@@ -1,0 +1,20 @@
+{
+  "name": "lektion4",
+  "version": "1.0.0",
+  "description": "a simple chat using socket.io and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Charlotte Nyman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
