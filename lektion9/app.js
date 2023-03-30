@@ -10,4 +10,5 @@ app.use(express.json())
 
 
 app.use('/api/employees', require('./controllers/employeeController'))
+app.use('/api/post', require('./controllers/postController'))
 module.exports = app
